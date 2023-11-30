@@ -5,6 +5,5 @@
 
 ###### This is an `<h6>` header, which is the smallest
 
-<img src="[pic_trulli.jpg](https://octodex.github.com/images/yaktocat.png)" alt="Image of Yaktocat">
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
